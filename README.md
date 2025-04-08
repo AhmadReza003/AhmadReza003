@@ -11,11 +11,6 @@ I believe in **collaboration, creativity**, and the power of interdisciplinary k
 
 ---
 
-## 🌍 Location  
-📍 Tehran, Iran 🇮🇷
-
----
-
 ## 🤖 Areas of Expertise 
 - Machine Learning & Deep Learning  
 - AI in Healthcare & Biostatistics  
